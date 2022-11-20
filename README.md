@@ -9,6 +9,7 @@ Niche snippets of python code to interact with Spotify API. Each snippet of code
 1. Get your id and keys from [Spotify Developer](https://developer.spotify.com/)
 1. Follow the comments inside of the snippet you want to use
 1. Run the program from your terminal
-  '''shell
-  pytthon app.py
-  '''
+  ```shell
+  #replace app.py with the name of snippet to be ran
+	python app.py
+	```
